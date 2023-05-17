@@ -13,7 +13,7 @@ public class Main {
 		Scanner scanner = new Scanner(System.in);
 
 		// Solicitar al usuario que ingrese la longitud del password
-		System.out.print("Ingresa la longitud del password hecho por xavi: ");
+		System.out.print("Ingresa la longitud del password: ");
 		int longitud = scanner.nextInt();
 
 		// Generar dos contraseñas de la longitud especificada
